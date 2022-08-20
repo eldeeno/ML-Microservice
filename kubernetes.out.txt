@@ -1,0 +1,10 @@
+NAME                                READY   STATUS    RESTARTS   AGE
+microservice-model123-68d5879b6c-kzp5s  1/1     Running   0          10m20s
+Forwarding from 0.0.0.0:8000 -> 80
+
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
