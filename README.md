@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<eldeeno>](https://circleci.com/gh/eldeeno/ML-Microservice.svg?style=svg)](https://app.circleci.com/pipelines/github/eldeeno/ML-Microservice)
 
 ## Project Overview
 
